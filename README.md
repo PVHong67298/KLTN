@@ -6,10 +6,11 @@ Sinh viên: Phạm Việt Hồng - trường đại học Công Nghệ(ĐHQGHN) 
 ## Một số hình ảnh Frontend được xây dựng:
 Admin:<br>
 
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/b7b270fc-4053-448f-b84a-f0c28176cc4d" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/89ceca11-c21f-40c4-ac12-5577aeb37dd8" />
 
 <br>
 User:<br>
 
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/cdd74ab6-6f90-4af3-ba30-dea7b38bea5e" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/a854203e-a9df-4751-9e4b-78b22f88a148" />
+
 
