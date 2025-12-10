@@ -11,5 +11,5 @@ Admin:<br>
 <br>
 User:<br>
 
-<img width="799" height="387" alt="image" src="https://github.com/user-attachments/assets/cdd74ab6-6f90-4af3-ba30-dea7b38bea5e" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/cdd74ab6-6f90-4af3-ba30-dea7b38bea5e" />
 
